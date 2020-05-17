@@ -14,7 +14,7 @@
     animation-iteration-count: infinite
   }
   
-  @keyframes revolve {
+ /* @keyframes revolve {
     0% {transform : rotate(20deg);}
     10% {transform : rotate(30deg);}
     20% {transform : rotate(40deg);}
@@ -23,4 +23,4 @@
     50% {transform : rotate(100deg);}
     70% {transform : rotate(140deg);}
     100% {transform : rotate(360deg);}
-  }
+  }*/
