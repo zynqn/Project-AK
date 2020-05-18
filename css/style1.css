@@ -6,12 +6,13 @@
   
   #object {
     margin: 0;
-    padding: 0.5em;
-    border: solid 0.5em #FF0000; 
+    padding: 9.5em;
+    border: solid 9.5em #FF0000; 
     background: #000;
-    animation-name: revolve;
+    opacity: 30%;
+    /*animation-name: revolve;
     animation-duration: 2s;
-    animation-iteration-count: infinite
+    animation-iteration-count: infinite*/
   }
   
  /* @keyframes revolve {
