@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    height: 100%;
 
 }
 
@@ -95,7 +96,19 @@ color: blanchedalmond;
 font-size: 20px;
 }
 
-/*.module {
+.module {
+    --x: 0px;
+    --y: 0px;
+    background-image: url(../img/logowithcirclebg.png);
+    background-size: 1000px;
+    background-position: var(--x) var(--y);
+    width: 100%;
+    height: 100%;
+    border: 1px solid white;
+  }
+
+/*ORIGINAL BACKUP
+  .module {
     --x: 0px;
     --y: 0px;
     background-image: url(../img/logowithcirclebg.png);
