@@ -20,12 +20,12 @@
         let app = new PIXI.Application({width: window.innerWidth, height: window.innerHeight});
         document.body.appendChild(app.view);
 
-        let img = new PIXI.Sprite.from("img/pikachu.png");
+        let img = new PIXI.Sprite.from("img/pikachu.jpg");
         img.width = window.innerWidth;
         img.height = window.innerHeight;
         app.stage.addChild(img);
 
-        depthMap = new PIXI.Sprite.from("img/pikachu3dmap2.png");
+        depthMap = new PIXI.Sprite.from("img/pikachu3dmap2.jpg");
         app.stage.addChild(depthMap);
 
         displacementFilter = new PIXI.filters.DisplacementFilter(depthMap);
