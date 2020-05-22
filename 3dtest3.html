@@ -17,7 +17,7 @@
     </script>--> 
     <script src="js/pixi4.min.js"></script>
     <script>
-        let app = new PIXI.Application({width: window.innerWidth, height: window.innerHeight});
+        let app =  PIXI.Application({width: window.innerWidth, height: window.innerHeight});
         document.body.appendChild(app.view);
 
         let img =  PIXI.Sprite.from("img/pikachu.jpg");
@@ -28,7 +28,7 @@
         depthMap =  PIXI.Sprite.from("img/pikachu3dmap.jpg");
         app.stage.addChild(depthMap);
 
-        displacementFilter = new PIXI.filters.DisplacementFilter(depthMap);
+        displacementFilter =  PIXI.filters.DisplacementFilter(depthMap);
         app.stage.filters = [displacementFilter];
 
         window.onmousemove = function(e) {
