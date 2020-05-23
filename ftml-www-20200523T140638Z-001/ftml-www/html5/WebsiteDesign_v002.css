@@ -1,0 +1,126 @@
+/*
+	@name WebsiteDesign_v002
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; height: 1080px; overflow: hidden;  }
+
+
+#layer_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+#home_header {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+#bg_border {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#bg_image {
+	top: 21px;
+	left: 37px;
+	width: 1845px;
+	height: 1038px;
+}
+
+#home_buttons {
+	top: 94px;
+	left: 106px;
+	width: 896px;
+	height: 409px;
+}
+
+#about {
+	top: 201px;
+	left: 0px;
+	width: 69px;
+	height: 25px;
+	font-family: Helvetica Neue LT Std, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#works {
+	top: 150px;
+	left: 0px;
+	width: 71px;
+	height: 25px;
+	font-family: Helvetica Neue LT Std, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#hire_me {
+	top: 254px;
+	left: 0px;
+	width: 81px;
+	height: 25px;
+	font-family: Helvetica Neue LT Std, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#home {
+	top: 0px;
+	left: 23px;
+	width: 873px;
+	height: 409px;
+}
+
+#content_logo {
+	top: 0px;
+	left: 0px;
+	width: 67px;
+	height: 44px;
+}
+
+
+#_eel_2020 {
+	top: 267px;
+	left: 179px;
+	width: 694px;
+	height: 142px;
+}
+
+
+#home_content {
+	top: 386px;
+	left: 1765px;
+	width: 72px;
+	height: 110px;
+}
+
+
+#home_footer {
+	top: 974px;
+	left: 1764px;
+	width: 46px;
+	height: 46px;
+}
+
+
+
+/* Add your custom CSS here */

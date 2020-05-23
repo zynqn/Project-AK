@@ -1,0 +1,53 @@
+Output Logs [5/23/2020, 7:11:42 PM]
+[TIME] 00:00:14		[PSD] WebsiteDesign_v002
+[LAYERS] 13  		[LPI] 0.89
+[FIXES] 0   		[WARNINGS] 0
+[+]----------------- START -------------------[+]
+1.    Exporting...
+2.    [AI] [WebsiteDesign_v002.ai]
+3.    [SIZE] [width:1920,height:1080]
+4.    [FOLDER] [Layer 1]
+5.    [FOLDER] [Home Header]
+6.    [LAYER] [IMAGE] [Bg_Border]
+7.    [OK] Layer Processed.
+8.    Saving Layer as Image...
+9.    [SAVED]
+10.   [LAYER] [IMAGE] [Bg_Image]
+11.   [OK] Layer Processed.
+12.   Saving Layer as Image...
+13.   [SAVED]
+14.   [FOLDER] [Home Buttons]
+15.   [LAYER] [TEXT] [About]
+16.   [OK] Layer Processed.
+17.   [LAYER] [TEXT] [Works]
+18.   [OK] Layer Processed.
+19.   [LAYER] [TEXT] [Hire_me]
+20.   [OK] Layer Processed.
+21.   [FOLDER] [Home]
+22.   [LAYER] [IMAGE] [Content_Logo]
+23.   [OK] Layer Processed.
+24.   Saving Layer as Image...
+25.   [SAVED]
+26.   [LAYER] [IMAGE] [Reel_2020]
+27.   [OK] Layer Processed.
+28.   Saving Layer as Image...
+29.   [SAVED]
+30.   [OK] Folder Processed.
+31.   [OK] Folder Processed.
+32.   [OK] Folder Processed.
+33.   [LAYER] [IMAGE] [Home_Content]
+34.   [OK] Layer Processed.
+35.   Saving Layer as Image...
+36.   [SAVED]
+37.   [LAYER] [IMAGE] [Home_Footer]
+38.   [OK] Layer Processed.
+39.   Saving Layer as Image...
+40.   [SAVED]
+41.   [OK] Folder Processed.
+42.   [COMPLETE] [WebsiteDesign_v002]
+43.   [API] Encoding Data 
+44.   Building Project files...
+45.   [SAVING] [WebsiteDesign_v002.html]
+46.   [SAVING] [WebsiteDesign_v002.css]
+47.   [DONE] All Done...
+[+]------------------ DONE -------------------[+]
